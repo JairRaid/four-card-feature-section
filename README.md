@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JairRaid/four-card-feature-section
-- Live Site URL: 
+- Live Site URL: https://jairraid.github.io/four-card-feature-section/
 
 ## My process
 
